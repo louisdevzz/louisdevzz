@@ -25,34 +25,46 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Louis from VietNam<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning Computer Science</p>
+<p align="left">
+  I'm <b>Louis</b> from <b>Vietnam</b> 🇻🇳<br><br>
+  - 💡 I'm a <b>Frontend Developer</b> who loves building clean and interactive UIs.<br>
+  - 🤖 I also build <b>AI-powered applications</b> and enjoy exploring how LLMs and agents can shape the web.<br>
+  - 🔗 I have a solid understanding of <b>blockchain</b> and can develop basic <b>backend</b> systems.<br>
+  - 🚀 Always curious about new web technologies, decentralized ecosystems, and creative coding ideas.
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
+###
 
+<h3 align="left">🔥 Current Focus</h3>
 
 ###
+
+<p align="left">
+  Building AI-integrated web apps · Exploring blockchain agent workflows · Experimenting with real-time UX and onchain analytics.
+</p>
