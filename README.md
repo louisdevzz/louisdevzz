@@ -2,6 +2,7 @@
 
 📍 **Vietnam 🇻🇳** | 💻 **Software Engineer** | 🤖 **AI & Blockchain Builder**
 
+<div>
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -12,6 +13,7 @@
 <img src="https://img.shields.io/badge/-NEAR-000000?style=flat-square&logo=near&logoColor=white">
 <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white">
+</div>
 
 > Building at the crossroads of AI and blockchain — shipping AI-powered web apps, autonomous agents, and decentralized tools. Passionate about open-source and the future of the decentralized web.
 
