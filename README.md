@@ -19,7 +19,7 @@
 
 ## Current Projects
 
-- 🔍 **[aletheia](https://github.com/louisdevzz/aletheia)** - Your own truth-grounded AI research assistant
+- 🦀 **[aletheia](https://github.com/louisdevzz/aletheia)** - Your own truth-grounded AI research assistant
 - 📣 **[marketingos](https://github.com/louisdevzz/marketingos)** - Agentic work platform for marketing teams
 - 🛒 **[zeromarket](https://github.com/louisdevzz/zeromarket)** - The official WASM skill registry for ZeroClaw — browse, install, and publish tool packages for your autonomous agent
 - 🌱 **[growx](https://github.com/louisdevzz/growx)** - Open funding and growth infrastructure platform built on the Ancient8 Chain
