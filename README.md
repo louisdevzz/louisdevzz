@@ -1,70 +1,61 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi, I'm Louis 👋
 
-###
+📍 **Vietnam 🇻🇳** | 💻 **Software Engineer** | 🤖 **AI & Blockchain Builder**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/vo-huu-nhan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/ethncalrk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white">
+<img src="https://img.shields.io/badge/-NEAR-000000?style=flat-square&logo=near&logoColor=white">
+<img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white">
 
-###
+> Building at the crossroads of AI and blockchain — shipping AI-powered web apps, autonomous agents, and decentralized tools. Passionate about open-source and the future of the decentralized web.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=louisdevzz.louisdevzz&"  />
-</div>
+## Current Projects
 
-###
+- 🔍 **[aletheia](https://github.com/louisdevzz/aletheia)** - Your own truth-grounded AI research assistant
+- 📣 **[marketingos](https://github.com/louisdevzz/marketingos)** - Agentic work platform for marketing teams
+- 🛒 **[zeromarket](https://github.com/louisdevzz/zeromarket)** - The official WASM skill registry for ZeroClaw — browse, install, and publish tool packages for your autonomous agent
+- 🌱 **[growx](https://github.com/louisdevzz/growx)** - Open funding and growth infrastructure platform built on the Ancient8 Chain
+- 💸 **[yipp](https://github.com/louisdevzz/yipp)** - Smart onchain tipping assistant; send crypto by mentioning @yippaiz on Twitter or Telegram — no wallet switching, no gas stress
+- 🎬 **[reel](https://github.com/louisdevzz/reel)** - Decentralized video and livestream platform where creators earn tokens from views, likes, and tips
+- 🤖 **[sloth-agent](https://github.com/louisdevzz/sloth-agent)** - AI-powered ecosystem for meme coin creation and automated DeFi trading
+- 🧠 **[memoraize](https://github.com/louisdevzz/memoraize)** - AI-powered flashcards, quizzes, and smart learning techniques — learn smarter, remember longer
+- 🎁 **[grants-fun](https://github.com/louisdevzz/grants-fun)** - Autonomous grant operator on NEAR Protocol — AI agents that evaluate and distribute grants via social signals
+- ⚙️ **[synthos](https://github.com/louisdevzz/synthos)** - AI-powered DeFi automation platform built on Solana
+- ⚡ **[quickai](https://github.com/louisdevzz/quickai)** - Vietnamese text summarization app built with Python FastAPI and Next.js
+- 🔗 **[near-scan](https://github.com/louisdevzz/near-scan)** - NEAR Protocol block explorer with contract verification and extended features
+- 💰 **[eco_on-pay](https://github.com/louisdevzz/eco_on-pay)** - Pay directly with crypto via Phantom wallet — no conversion needed
+- 📝 **[ai-pgf](https://github.com/louisdevzz/ai-pgf)** - A proactive grants program and movement to build toward a Funding AGI
+- 🔑 **[aptos-keyless](https://github.com/louisdevzz/aptos-keyless)** - Google-based keyless login for the Aptos chain
+- 🐾 **[joygotchi](https://github.com/louisdevzz/joygotchi)** - On-chain virtual pet game
+- 🐱 **[pet-cat](https://github.com/louisdevzz/pet-cat)** - Feed and raise your cat on-chain
 
-<h1 align="center">hey there 👋</h1>
+## GitHub Activity
 
-###
+<img src="https://ghchart.rshah.org/louisdevzz">
 
-<h3 align="left">👨‍💻 About Me</h3>
+## What I'm Doing
 
-###
+- **Building AI × Blockchain tools** — Combining LLMs and autonomous agents with decentralized infrastructure
+- **Shipping web3 products** — From DeFi automation to social-tipping and funding platforms
+- **Exploring agentic workflows** — Using AI to unlock new UX patterns for the decentralized web
+- **Open-source contributor** — Sharing tools and experiments with the community
 
-<p align="left">
-  I'm <b>Louis</b> from <b>Vietnam</b> 🇻🇳<br><br>
-  - 💡 I'm a <b>Frontend Developer</b> who loves building clean and interactive UIs.<br>
-  - 🤖 I also build <b>AI-powered applications</b> and enjoy exploring how LLMs and agents can shape the web.<br>
-  - 🔗 I have a solid understanding of <b>blockchain</b> and can develop basic <b>backend</b> systems.<br>
-  - 🚀 Always curious about new web technologies, decentralized ecosystems, and creative coding ideas.
-</p>
+## Connect
 
-###
+<a href="https://www.linkedin.com/in/vo-huu-nhan/"><img src="https://img.shields.io/badge/-Louis_Vo-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/ethncalrk"><img src="https://img.shields.io/badge/-@ethncalrk-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+<a href="https://github.com/louisdevzz"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white"></a>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=louisdevzz.louisdevzz">
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+### Philosophy
 
-###
-
-<h3 align="left">🔥 Current Focus</h3>
-
-###
-
-<p align="left">
-  Building AI-integrated web apps · Exploring blockchain agent workflows · Experimenting with real-time UX and onchain analytics.
-</p>
+> "Build things that matter, ship them fast, and share them with the world." — Obsessed with the intersection of AI and blockchain, one commit at a time.
