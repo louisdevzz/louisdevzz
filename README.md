@@ -58,8 +58,6 @@
 <a href="https://twitter.com/ethncalrk"><img src="https://img.shields.io/badge/-@ethncalrk-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
 <a href="https://github.com/louisdevzz"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white"></a>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=louisdevzz.louisdevzz">
-
 ---
 
 ### Philosophy
