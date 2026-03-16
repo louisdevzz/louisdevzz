@@ -1,6 +1,6 @@
 # Hi, I'm Louis 👋
 
-📍 **Vietnam 🇻🇳** | 💻 **Software Engineer** | 🤖 **AI & Blockchain Builder**
+📍 **Vietnam 🇻🇳** | 💻 **Fullstack Developer** | 🤖 **AI & Blockchain Builder**
 
 <div>
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">&nbsp;
