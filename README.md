@@ -19,6 +19,10 @@
 
 ## Current Projects
 
+- 🏭 **[zerobuild](https://github.com/PotLock/zerobuild)** - Autonomous Software Factory for building and hosting AI-powered software development systems
+- 🤖 **[zeroone](https://github.com/PotLock/zeroone)** - Managed platform for creating, deploying, and running personal AI agents
+- 🚀 **[potlaunch](https://github.com/PotLock/potlaunch)** - Cross-chain token launch kit powered by Solana × NEAR Intents × Omnibridge
+- 📰 **[curatedotfun](https://github.com/PotLock/curatedotfun)** - Plugin-based content curation platform with automated distribution to Telegram, RSS, Notion, and more
 - 🦀 **[aletheia](https://github.com/louisdevzz/aletheia)** - Your own truth-grounded AI research assistant
 - 📣 **[marketingos](https://github.com/louisdevzz/marketingos)** - Agentic work platform for marketing teams
 - 🛒 **[zeromarket](https://github.com/louisdevzz/zeromarket)** - The official WASM skill registry for ZeroClaw — browse, install, and publish tool packages for your autonomous agent
